@@ -1,0 +1,24 @@
+h1 {
+  background-color: #00b0cb;
+  color: white;
+}
+
+.inputSubtext {
+  background-color: #00b0cb;
+  font-size: large;
+  color: white;
+}
+
+.enterButton {
+  background-color: #00b0cb;
+  color: white;
+  text-align: right;
+  margin-top: 4rem;
+  font-size: x-large;
+}
+
+.questionBubble {
+  background-color: #00b0cb;
+  padding: 1.5rem;
+  border-radius: 1rem;
+}
